@@ -5,5 +5,7 @@ git clone "remote-url"
 git status
 ------>change the file directory
 git add "file"
+git status
 git commit -m "version1"
+git status
 git push origin main
